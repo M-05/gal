@@ -1,5 +1,5 @@
 [<img width="1333" alt="갈 이미지" src="https://user-images.githubusercontent.com/103846429/236394181-ecc6f108-b4f4-41cf-8ec4-7f99862906be.png">](https://www.notion.so/modulabs/70d9271884ab4c3d909b617a999e5adc)  
-# :dog: 갈! [<<암묵적 언어폭력 탐지에 관한 연구>>](https://www.notion.so/m05/87102c70d491416ebbf349a06a4028ec)  
+# :dog: 갈! [<<암묵적 언어폭력 탐지에 관한 연구>>](https://m05.notion.site/87102c70d491416ebbf349a06a4028ec)  
 :telescope: 본 프로젝트는 “아이펠”과정 중 “아이펠톤”기간에 진행하였습니다.  
 :calendar: `(23.03.24 ~ 23.05.08)`  
 
@@ -15,7 +15,7 @@
 ---
 :pushpin: sample 1 
 
-<img width="594" alt="카톡 샘플" src="https://user-images.githubusercontent.com/103846429/236128188-35e38b52-4eaa-499e-96cc-5da2b946a3ca.png">
+<img width="1000" alt="카톡 샘플" src="https://user-images.githubusercontent.com/103846429/236128188-35e38b52-4eaa-499e-96cc-5da2b946a3ca.png">
 
 :pushpin: sample 2
 >태경씨 오늘 퇴근 일찍하네?  
@@ -38,7 +38,7 @@
 ---
 :cd: 데이터셋
 ---
-<img width="497" alt="데이터셋" src="https://user-images.githubusercontent.com/103846429/236128663-313077b5-e3bd-4c48-b8ac-0e15bd10f73c.png">
+<img width="1000" alt="데이터셋" src="https://user-images.githubusercontent.com/103846429/236128663-313077b5-e3bd-4c48-b8ac-0e15bd10f73c.png">
 
 ---
 :chart_with_upwards_trend: 사용한 모델
